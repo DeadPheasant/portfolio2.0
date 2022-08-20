@@ -1,11 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio2.0/static/css/main.027b9f4e.css",
-    "main.js": "/portfolio2.0/static/js/main.274ffd93.js",
+    "main.css": "/portfolio2.0/static/css/main.e6157a22.css",
+    "main.js": "/portfolio2.0/static/js/main.8b90ff84.js",
     "static/js/787.9147ddc7.chunk.js": "/portfolio2.0/static/js/787.9147ddc7.chunk.js",
     "static/media/bird.jpg": "/portfolio2.0/static/media/bird.45a62a89d6017065436f.jpg",
     "static/media/birds.jpg": "/portfolio2.0/static/media/birds.a9aeffcd77f1fd984284.jpg",
+    "static/media/foodshopdesktop.png": "/portfolio2.0/static/media/foodshopdesktop.d7006b08c8171012fcb5.png",
+    "static/media/pokedexdesktop.png": "/portfolio2.0/static/media/pokedexdesktop.9430a60bc0ae2b87f6bf.png",
+    "static/media/Pokedex.jpg": "/portfolio2.0/static/media/Pokedex.d7f828c26af45a69910a.jpg",
     "static/media/pokemondesktop.png": "/portfolio2.0/static/media/pokemondesktop.c205cdbfd09378b0ac8f.png",
+    "static/media/foodshopmobile.png": "/portfolio2.0/static/media/foodshopmobile.fe624ca80a876dfa3297.png",
     "static/media/pokemonmobile.png": "/portfolio2.0/static/media/pokemonmobile.cf3138d0f605491ce856.png",
     "static/media/passworddesktop.png": "/portfolio2.0/static/media/passworddesktop.e76673fad317201dabb3.png",
     "static/media/passwordmobile.png": "/portfolio2.0/static/media/passwordmobile.2b92dca760cfc6f5d853.png",
@@ -15,12 +19,12 @@
     "static/media/css.png": "/portfolio2.0/static/media/css.b1d0e80de4a60f36f6f2.png",
     "static/media/linkedin.png": "/portfolio2.0/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/portfolio2.0/index.html",
-    "main.027b9f4e.css.map": "/portfolio2.0/static/css/main.027b9f4e.css.map",
-    "main.274ffd93.js.map": "/portfolio2.0/static/js/main.274ffd93.js.map",
+    "main.e6157a22.css.map": "/portfolio2.0/static/css/main.e6157a22.css.map",
+    "main.8b90ff84.js.map": "/portfolio2.0/static/js/main.8b90ff84.js.map",
     "787.9147ddc7.chunk.js.map": "/portfolio2.0/static/js/787.9147ddc7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.027b9f4e.css",
-    "static/js/main.274ffd93.js"
+    "static/css/main.e6157a22.css",
+    "static/js/main.8b90ff84.js"
   ]
 }
