@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio2.0/static/css/main.e6157a22.css",
-    "main.js": "/portfolio2.0/static/js/main.8b90ff84.js",
+    "main.css": "/portfolio2.0/static/css/main.9d198847.css",
+    "main.js": "/portfolio2.0/static/js/main.de356880.js",
     "static/js/787.9147ddc7.chunk.js": "/portfolio2.0/static/js/787.9147ddc7.chunk.js",
     "static/media/bird.jpg": "/portfolio2.0/static/media/bird.45a62a89d6017065436f.jpg",
     "static/media/birds.jpg": "/portfolio2.0/static/media/birds.a9aeffcd77f1fd984284.jpg",
     "static/media/foodshopdesktop.png": "/portfolio2.0/static/media/foodshopdesktop.d7006b08c8171012fcb5.png",
+    "static/media/glassmobile.jpg": "/portfolio2.0/static/media/glassmobile.35f254f012546050afbd.jpg",
     "static/media/pokedexdesktop.png": "/portfolio2.0/static/media/pokedexdesktop.9430a60bc0ae2b87f6bf.png",
     "static/media/Pokedex.jpg": "/portfolio2.0/static/media/Pokedex.d7f828c26af45a69910a.jpg",
+    "static/media/glassdesktop.png": "/portfolio2.0/static/media/glassdesktop.e4435eefc0d5282d938b.png",
     "static/media/pokemondesktop.png": "/portfolio2.0/static/media/pokemondesktop.c205cdbfd09378b0ac8f.png",
     "static/media/foodshopmobile.png": "/portfolio2.0/static/media/foodshopmobile.fe624ca80a876dfa3297.png",
     "static/media/pokemonmobile.png": "/portfolio2.0/static/media/pokemonmobile.cf3138d0f605491ce856.png",
@@ -19,12 +21,12 @@
     "static/media/css.png": "/portfolio2.0/static/media/css.b1d0e80de4a60f36f6f2.png",
     "static/media/linkedin.png": "/portfolio2.0/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/portfolio2.0/index.html",
-    "main.e6157a22.css.map": "/portfolio2.0/static/css/main.e6157a22.css.map",
-    "main.8b90ff84.js.map": "/portfolio2.0/static/js/main.8b90ff84.js.map",
+    "main.9d198847.css.map": "/portfolio2.0/static/css/main.9d198847.css.map",
+    "main.de356880.js.map": "/portfolio2.0/static/js/main.de356880.js.map",
     "787.9147ddc7.chunk.js.map": "/portfolio2.0/static/js/787.9147ddc7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6157a22.css",
-    "static/js/main.8b90ff84.js"
+    "static/css/main.9d198847.css",
+    "static/js/main.de356880.js"
   ]
 }
