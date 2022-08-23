@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio2.0/static/css/main.9d198847.css",
-    "main.js": "/portfolio2.0/static/js/main.de356880.js",
+    "main.css": "/portfolio2.0/static/css/main.fdebc175.css",
+    "main.js": "/portfolio2.0/static/js/main.0fe0bc8b.js",
     "static/js/787.9147ddc7.chunk.js": "/portfolio2.0/static/js/787.9147ddc7.chunk.js",
     "static/media/bird.jpg": "/portfolio2.0/static/media/bird.45a62a89d6017065436f.jpg",
     "static/media/birds.jpg": "/portfolio2.0/static/media/birds.a9aeffcd77f1fd984284.jpg",
@@ -13,7 +13,11 @@
     "static/media/pokemondesktop.png": "/portfolio2.0/static/media/pokemondesktop.c205cdbfd09378b0ac8f.png",
     "static/media/foodshopmobile.png": "/portfolio2.0/static/media/foodshopmobile.fe624ca80a876dfa3297.png",
     "static/media/pokemonmobile.png": "/portfolio2.0/static/media/pokemonmobile.cf3138d0f605491ce856.png",
+    "static/media/bubbledesktop.png": "/portfolio2.0/static/media/bubbledesktop.53bdecd449cbe4faba5c.png",
     "static/media/passworddesktop.png": "/portfolio2.0/static/media/passworddesktop.e76673fad317201dabb3.png",
+    "static/media/rainbowdesktop.png": "/portfolio2.0/static/media/rainbowdesktop.c39a06f5e2b7d15f8427.png",
+    "static/media/bubblemobile.png": "/portfolio2.0/static/media/bubblemobile.9603339c29f80d31a4ed.png",
+    "static/media/rainbowmobile.png": "/portfolio2.0/static/media/rainbowmobile.881bc709d80c3de59860.png",
     "static/media/passwordmobile.png": "/portfolio2.0/static/media/passwordmobile.2b92dca760cfc6f5d853.png",
     "static/media/react.png": "/portfolio2.0/static/media/react.bb07693ee57afdce7c88.png",
     "static/media/gmail.png": "/portfolio2.0/static/media/gmail.f8dfbe8b0875e9328ff2.png",
@@ -21,12 +25,12 @@
     "static/media/css.png": "/portfolio2.0/static/media/css.b1d0e80de4a60f36f6f2.png",
     "static/media/linkedin.png": "/portfolio2.0/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/portfolio2.0/index.html",
-    "main.9d198847.css.map": "/portfolio2.0/static/css/main.9d198847.css.map",
-    "main.de356880.js.map": "/portfolio2.0/static/js/main.de356880.js.map",
+    "main.fdebc175.css.map": "/portfolio2.0/static/css/main.fdebc175.css.map",
+    "main.0fe0bc8b.js.map": "/portfolio2.0/static/js/main.0fe0bc8b.js.map",
     "787.9147ddc7.chunk.js.map": "/portfolio2.0/static/js/787.9147ddc7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d198847.css",
-    "static/js/main.de356880.js"
+    "static/css/main.fdebc175.css",
+    "static/js/main.0fe0bc8b.js"
   ]
 }
